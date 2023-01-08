@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saif Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsaif9030&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaif9030" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifahmed06&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsaif9030" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Developer**
 
 - 🌱 I’m currently learning **Full Stack Development at #100DaysOfCoding_\Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammedsaif9030](https://github.com/mohammedsaif9030)
+- 👨‍💻 All of my projects are available at [https://github.com/mohammedsaif9030](https://github.com/saifahmed06)
 
 - 📝 I regularly write articles on [Medium and Linkdin](Medium and Linkdin)
 
