@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development at #100DaysOfCoding_\Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammedsaif9030](https://github.com/saifahmed06)
+- 👨‍💻 All of my projects are available at [https://github.com/saifahmed06](https://github.com/saifahmed06)
 
 - 📝 I regularly write articles on [Medium and Linkdin](Medium and Linkdin)
 
